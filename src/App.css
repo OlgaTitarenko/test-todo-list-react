@@ -1,0 +1,9 @@
+.Todo {
+  padding: 25px;
+}
+.Todo__item_done {
+  text-decoration: line-through;
+}
+button {
+  margin-left: 15px;
+}
